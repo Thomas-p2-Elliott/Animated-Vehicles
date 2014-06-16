@@ -1,1 +1,0 @@
-_xtype = [themv22,0] execVM "\ca\air2\mv22\scripts\pack.sqf";
