@@ -6,6 +6,6 @@ if (!(isNull _unit)) exitWith {
 };
 
 thesuv animate ["HideGun_01", 1];
-sleep 1;
+uiSleep 1;
 thesuv animate ["CloseCover1", 1];
 thesuv animate ["CloseCover2", 1];
